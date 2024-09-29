@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d238c323-8bfd-42c9-b934-d2e134ad8f6b)# Machine Learning Projects - AIUB
+# Machine Learning Projects - AIUB
 
 This repository contains machine learning projects developed as part of the **Machine Learning** course at **American International University - Bangladesh (AIUB)**. It includes various Jupyter Notebooks demonstrating the implementation of machine learning algorithms and techniques, with a final project housed in the `Final` folder.
 

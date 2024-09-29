@@ -11,7 +11,7 @@ For more details on the course, refer to the [AIUB Undergraduate Course Catalog]
 The repository explores a range of machine learning concepts from basic models to more advanced techniques. The projects are implemented using popular libraries like **scikit-learn**, **pandas**, **NumPy**, and **Matplotlib** for model training, evaluation, and visualization.
 
 ### Final Project:
-The `Final` folder contains the capstone project for this course, which involves the implementation of a machine learning pipeline to solve a real-world problem using appropriate algorithms, data preprocessing, and model evaluation metrics.
+The `/Final/Project` folder contains the capstone project for this course, which involves the implementation of a machine learning pipeline to solve a real-world problem using appropriate algorithms, data preprocessing, and model evaluation metrics.
 
 ## Repository Structure
 

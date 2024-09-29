@@ -36,10 +36,8 @@ The `/Final/Project` folder contains the capstone project for this course, which
 
 ## Key Topics Covered
 
-- Supervised Learning (Linear Regression, Decision Trees, Random Forests, etc.)
-- Unsupervised Learning (Clustering, PCA, etc.)
-- Data Preprocessing (Normalization, Encoding, Missing Values)
-- Model Evaluation (Accuracy, Precision, Recall, F1-Score, Confusion Matrix)
+- Data Preprocessing
+- Model Evaluation
 - Feature Selection
 - Hyperparameter Tuning
 - Cross-validation

@@ -1,6 +1,6 @@
 # Machine Learning Projects - AIUB
 
-This repository contains machine learning projects developed as part of the **Machine Learning** course at **American International University - Bangladesh (AIUB)**. It includes various Jupyter Notebooks demonstrating the implementation of machine learning algorithms and techniques, with a final project housed in the `Final` folder.
+This repository contains machine learning projects developed as part of the **Machine Learning** course at **American International University - Bangladesh (AIUB)**. It includes various Jupyter Notebooks demonstrating the implementation of machine learning algorithms and techniques, with a final project housed in the `/Final/Project` folder.
 
 ### Course Information
 For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
@@ -20,17 +20,19 @@ The `Final` folder contains the capstone project for this course, which involves
     - `ANN_MNIST.ipynb`
     - `CNN_MNIST.ipynb`
   - 📂`Project`:
-    - `ML-Project-Report-FINAL.pdf`
+    - `ML-Project-Report.pdf`
     - `ML_Project.ipynb`
     - `README.txt`
     - `qt_dataset.csv`
 
 - 📂`Mid`:
   - 📂`Codes`:
-    - `NaiveBayes.ipynb`
+    - `Naive_Bayes.ipynb`
     - 📂`Linear Regression using Gradient Descent`:
-      - `Linear Regression using Gradient Descent.ipynb`
+      - `Linear_Regression_using_Gradient_Descent.ipynb`
       - `data.csv`
+
+- `README.md`
 
 ## Key Topics Covered
 
@@ -53,7 +55,7 @@ The `Final` folder contains the capstone project for this course, which involves
 3. **Run Jupyter Notebooks**: Open Jupyter Notebook and explore the individual notebooks or the final project.
    ```bash
    jupyter notebook
-4. **Final Project**: Navigate to the `Final` folder and open `Final_Project.ipynb` to explore the final project implementation.
+4. **Final Project**: Navigate to the `/Final/Project` folder and open `ML_Project.ipynb` to explore the final project implementation.
 
 ## Technologies Used
 

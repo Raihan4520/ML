@@ -1,6 +1,6 @@
 # Machine Learning Projects - AIUB
 
-This repository contains machine learning projects developed as part of the **Machine Learning** course at **American International University - Bangladesh (AIUB)**. It includes various Jupyter Notebooks demonstrating the implementation of machine learning algorithms and techniques, with a final project housed in the `/Final/Project` folder.
+This repository contains a collection of machine learning projects developed as part of the **Machine Learning** course at **American International University - Bangladesh (AIUB)**. It includes various Jupyter Notebooks demonstrating the implementation of machine learning algorithms and techniques, with a final project housed in the `/Final/Project` folder.
 
 ### Course Information
 For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
